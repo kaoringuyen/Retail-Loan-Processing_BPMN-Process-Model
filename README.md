@@ -10,11 +10,11 @@ These models showcase advanced enterprise architecture, demonstrating how modern
 * **Core Systems:** SAP S/4HANA MM (Materials Management), Procurement Operations, Ariba Network / Supplier Portal.
 * **Key Patterns:** Automated Material Purchase Requisition (PR) triggers, parallel strategic verifications (AND), asynchronous bidding loops managed via intermediate catching message events coupled with non-interrupting boundary timers, and dynamic outline agreement / PO generation using Inclusive (OR) gateways.
 
-### 2. B2B Order Fulfillment & Dynamic Stock Replenishment
+### 2. B2B Order Fulfillment & Dynamic Stock Replenishment (SAP SD)
 * **Core Systems:** Customer B2B Portal, SAP Integration Suite, SAP S/4HANA (SD & MM).
 * **Key Patterns:** Asynchronous API handshakes, real-time Available-to-Promise (ATP) stock checks, parallel external sourcing, and dynamic multi-condition order routing using Inclusive (OR) gateways.
 
-### 3. Retail Banking & Automated Mortgage Approvals
+### 3. Retail Banking & Automated Mortgage Approvals (Financial Procedure)
 * **Core Systems:** Front Office CRM, Risk & Compliance Engines, Underwriting Portals.
 * **Key Patterns:** Automated credit scoring, manual risk audit fallbacks, and asynchronous document sufficiency verification loops.
 
