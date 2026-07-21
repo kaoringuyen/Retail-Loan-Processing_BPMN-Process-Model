@@ -1,6 +1,6 @@
 # Enterprise-Grade, Execution-Ready BPMN 2.0 Process Models
 
-A portfolio of production-ready, highly compliant BPMN 2.0 process models designed within single-pool constraints (fully compliant with execution engines like Flowable, Camunda, and SAP Workflow Management). 
+A portfolio of highly compliant BPMN 2.0 process models designed within single-pool constraints (fully compliant with execution engines like Flowable, Camunda, and SAP Workflow Management). 
 
 These models showcase advanced enterprise architecture, demonstrating how modern organizations bridge the gap between business operations, ERP systems (SAP S/4HANA SD/MM), and external API integrations.
 
